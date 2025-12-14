@@ -1,0 +1,5 @@
+{
+  "name": "NutriPlan Pro",
+  "description": "Aplicativo de nutrição inteligente que gera cardápios personalizados via IA com base em um quiz detalhado.",
+  "requestFramePermissions": []
+}
